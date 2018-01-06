@@ -1,0 +1,12 @@
+C:\Users\tom\Documents\Visual Studio 2017\Projects\MESSENGER\MESSENGER\bin\Debug\MESSENGER.exe.config
+C:\Users\tom\Documents\Visual Studio 2017\Projects\MESSENGER\MESSENGER\bin\Debug\MESSENGER.exe
+C:\Users\tom\Documents\Visual Studio 2017\Projects\MESSENGER\MESSENGER\bin\Debug\MESSENGER.pdb
+C:\Users\tom\Documents\Visual Studio 2017\Projects\MESSENGER\MESSENGER\obj\Debug\MESSENGER.csprojResolveAssemblyReference.cache
+C:\Users\tom\Documents\Visual Studio 2017\Projects\MESSENGER\MESSENGER\obj\Debug\MESSENGER.EditNameForm.resources
+C:\Users\tom\Documents\Visual Studio 2017\Projects\MESSENGER\MESSENGER\obj\Debug\MESSENGER.LoginForm.resources
+C:\Users\tom\Documents\Visual Studio 2017\Projects\MESSENGER\MESSENGER\obj\Debug\MESSENGER.MessengerForm.resources
+C:\Users\tom\Documents\Visual Studio 2017\Projects\MESSENGER\MESSENGER\obj\Debug\MESSENGER.ServerForm.resources
+C:\Users\tom\Documents\Visual Studio 2017\Projects\MESSENGER\MESSENGER\obj\Debug\MESSENGER.Properties.Resources.resources
+C:\Users\tom\Documents\Visual Studio 2017\Projects\MESSENGER\MESSENGER\obj\Debug\MESSENGER.csproj.GenerateResource.Cache
+C:\Users\tom\Documents\Visual Studio 2017\Projects\MESSENGER\MESSENGER\obj\Debug\MESSENGER.exe
+C:\Users\tom\Documents\Visual Studio 2017\Projects\MESSENGER\MESSENGER\obj\Debug\MESSENGER.pdb
